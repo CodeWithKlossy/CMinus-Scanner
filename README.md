@@ -1,2 +1,2 @@
-# CMinus-Compiler
-C Minus Compiler.
+# CMinus-Scanner
+C Minus Scanner.
